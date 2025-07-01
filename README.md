@@ -1,6 +1,6 @@
 ## Hi there 👋 🎶 README.md
 
-# APENAS ESTUDO | EDUARDO REIS
+# |EDUARDO REIS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-667?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/cardoso-eduardo/)
 
 Analista Operações Payments, Bacharel em sistemas de Informação, Pós em Gov. TI e Inovação (Cursando).
@@ -9,11 +9,13 @@ Perfil Git não profissional, apenas para pratica de estudos de cursos realizado
 ## 🛠 Minhas Habilidades Desenvolvidas
 ![JavaScript](https://img.shields.io/badge/JavaScript-144?style=for-the-badge&logo=javascript)
 
-![HTML5](https://img.shields.io/badge/HTML5-144?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/HTML-144?style=for-the-badge&logo=html)
 
-![CSS3](https://img.shields.io/badge/CSS3-144?style=for-the-badge&logo=css3&logoColor=264CE4)
+![CSS](https://img.shields.io/badge/CSS-144?style=for-the-badge&logo=css3&logoColor=264CE4)
 
-![ITIL](https://img.shields.io/badge/ITILv4-144?style=for-the-badge&logo=java)
+![ITIL4](https://img.shields.io/badge/ITILv4-144?style=for-the-badge&logo=java)
+
+![PYTHON](https://img.shields.io/badge/PYTHON-144?style=for-the-badge&logo=java)
 
 
 ## 🛠 Minhas Habilidades em Desenvolvimento
