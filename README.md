@@ -1,10 +1,10 @@
-## Hi there 👋 🎶 README.md
+## EM CONTRUÇÃO👋 🎶 README.md
 
 # |EDUARDO REIS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-667?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/cardoso-eduardo/)
 
-Analista Operações Payments, Bacharel em sistemas de Informação, Pós em Gov. TI e Inovação (Cursando).
-Perfil Git não profissional, apenas para pratica de estudos de cursos realizados ao logo da vida "Lifelong learning", algumas coisas posso nem lembrar mais como fiz 😁.
+Estudante de Engenharia de Dados- Python, SQL, AWS, Google colab, Google Sheets e IA.
+Bacharel em sistemas de Informação (2014), Pós-Graduado em Governança de TI e Inovação (2024), MBA em Gestão de Projetos (2025).
 
 ## 🛠 Minhas Habilidades Desenvolvidas
 ![JavaScript](https://img.shields.io/badge/JavaScript-144?style=for-the-badge&logo=javascript)
